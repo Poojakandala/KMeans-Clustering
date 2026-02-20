@@ -106,11 +106,12 @@ Run:
 - streamlit run Streamlit_app.py
 
 
-📂 Project Structure
-├── Streamlit_app.py
-├── kmeans_model.pkl
-├── Mall_Customers.csv
-├── clusterd_data.csv
-├── cluster.ipynb
-├── random_forest_model.pkl
-├── README.md
+📂 Project Structure:
+
+- ├── Streamlit_app.py
+- ├── kmeans_model.pkl
+- ├── Mall_Customers.csv
+- ├── clusterd_data.csv
+- ├── cluster.ipynb
+- ├── random_forest_model.pkl
+- ├── README.md
